@@ -171,7 +171,7 @@ public class ListaEncadeada<T> {
 		        return str + item + "\n ";
 	        }
 		 	
-		 return "/n";
+		 return "\n";
 	 }
 
 	 //4) Fazer um método para inverter a lista de forma referencial:
